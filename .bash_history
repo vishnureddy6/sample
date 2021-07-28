@@ -80,3 +80,21 @@ git status
 clear
 cat .gitignore
 clear
+git --version
+clear
+git status
+clear
+which git
+clear
+git init
+git ls--stats
+git --help
+git sparse-checkout
+ git log
+touch ab cd ef gh
+ls
+git status
+git add ab cd ef gh
+git status
+git commit .
+git log
